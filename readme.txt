@@ -1,0 +1,1 @@
+This is my CS 210 Intro to Data Analysis course term project. All the information regarding the project can be found inside the ipynb file.
